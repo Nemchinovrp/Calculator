@@ -1,0 +1,9 @@
+public class Main
+{
+    static Calc c = new Calc();
+
+    public static void main(String[] args)
+    {
+        c.setVisible(true);
+    }
+}
